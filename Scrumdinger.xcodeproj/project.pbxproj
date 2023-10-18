@@ -30,6 +30,7 @@
 		F16B3F4C2ADF2477008EDC52 /* AVPlayer+Ding.swift in Sources */ = {isa = PBXBuildFile; fileRef = F16B3F4B2ADF2477008EDC52 /* AVPlayer+Ding.swift */; };
 		F16B3F4F2ADF25D1008EDC52 /* ding.wav in Resources */ = {isa = PBXBuildFile; fileRef = F16B3F4E2ADF25D1008EDC52 /* ding.wav */; };
 		F16B3F512ADF60C1008EDC52 /* History.swift in Sources */ = {isa = PBXBuildFile; fileRef = F16B3F502ADF60C1008EDC52 /* History.swift */; };
+		F16B3F542AE00073008EDC52 /* ScrumStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = F16B3F532AE00073008EDC52 /* ScrumStore.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -76,6 +77,7 @@
 		F16B3F4B2ADF2477008EDC52 /* AVPlayer+Ding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "AVPlayer+Ding.swift"; sourceTree = "<group>"; };
 		F16B3F4E2ADF25D1008EDC52 /* ding.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = ding.wav; sourceTree = "<group>"; };
 		F16B3F502ADF60C1008EDC52 /* History.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = History.swift; sourceTree = "<group>"; };
+		F16B3F532AE00073008EDC52 /* ScrumStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumStore.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -211,6 +213,7 @@
 		F16B3F522ADFF53B008EDC52 /* Stores */ = {
 			isa = PBXGroup;
 			children = (
+				F16B3F532AE00073008EDC52 /* ScrumStore.swift */,
 			);
 			path = Stores;
 			sourceTree = "<group>";
@@ -350,6 +353,7 @@
 				F16B3F482ADF0AE6008EDC52 /* MeetingFooterView.swift in Sources */,
 				F16B3F402ADEBAE7008EDC52 /* ThemePicker.swift in Sources */,
 				F16B3F442ADEE3C3008EDC52 /* ScrumProgressViewStyle.swift in Sources */,
+				F16B3F542AE00073008EDC52 /* ScrumStore.swift in Sources */,
 				F16B3F462ADEE7EF008EDC52 /* ScrumTimer.swift in Sources */,
 				F16B3F362ADDD1D6008EDC52 /* ScrumsView.swift in Sources */,
 				F16B3F382ADDDAA2008EDC52 /* DetailView.swift in Sources */,
